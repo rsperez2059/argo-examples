@@ -50,6 +50,7 @@ argocd app set <appname> #Set the application’s configuration.
 argocd app delete <appname> #Delete an Argo CD application.
 ```
 # RSP Update
+https://github.com/rsperez2059/argo-examples
 
 
 
